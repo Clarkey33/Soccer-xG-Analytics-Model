@@ -41,3 +41,26 @@ def draw_pitch(ax=None, pitch_length=120, pitch_width=80):
     return ax
 
 
+def typeToCategory(df,features):
+    """Changes given features data type to category
+        args:
+        Dataframe and List of features
+
+        Returns Dataframe    
+    """
+    import pandas as pd
+    
+    if not isinstance(df, pd.DataFrame) or not isinstance(features,list):
+        raise ValueError("Invalid input types. Expects Dataframe and list")
+    
+    try:
+        for f in features:
+            df[f] = df[f].astype('category')
+        
+        #validate changes 
+        print(f"\nData types for categorical features : \n{df[features].dtypes}")
+        return df
+    except Exception as e:
+        print(f"Error processing features:  {str(e)}")
+        return None
+
