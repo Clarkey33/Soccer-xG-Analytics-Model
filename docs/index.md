@@ -72,4 +72,3 @@ Want the full walkthrough, visuals, and explanation of the methodology?
   *Build an Expected Goals (xG) model from scratch using StatsBomb’s FIFA World Cup 2022 dataset. Data cleaning, feature engineering (shot angle & distance), and visualization included.*
 
 ---
-```
