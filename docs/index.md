@@ -61,7 +61,7 @@ Where the models agreed, Messi succeeded—creating shot opportunities that are 
 
 Want the full walkthrough, visuals, and explanation of the methodology?
 
-[![Watch the video](https://img.youtube.com/vi/Your_YouTube_Video_ID/0.jpg)](https://www.youtube.com/watch?v=Your_YouTube_Video_ID)
+[![Watch the video](https://youtu.be/4pMvgw1hn94)
 
 ---
 
