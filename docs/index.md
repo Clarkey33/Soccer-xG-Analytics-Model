@@ -1,4 +1,3 @@
-```markdown
 # The Finisher's Signature: A Data-Driven Analysis of Messi vs. Mbappé  
 *A project by [Clarkey33](https://www.linkedin.com/in/your-link-here)*
 
