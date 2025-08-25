@@ -22,7 +22,7 @@ Using four years of publicly available FBRef data, the findings are unambiguous:
 
 This means that, compared to a league-average player taking the same shots, both have delivered *more* goals—and by margins that aren’t due to chance.
 
-![Stacked bar chart of Messi vs. Mbappé G-xG](https://github.com/Clarkey33/xG-model/blob/main/images/player_finishing_profile/2021-2025_G%20-xG_messi_mbappe_performance.png?raw=true)
+![Stacked bar chart of Messi vs. Mbappé G-xG](https://github.com/Clarkey33/Soccer-xG-Analytics-Model/blob/main/images/player_finishing_profile/2021-2025_G%20-xG_messi_mbappe_performance_1.png?raw=true)
 
 ---
 
