@@ -38,7 +38,7 @@ A side-by-side breakdown of predicted xG vs actual goal outcomes for each player
 
 ## 🧭 Project Components & Links
 
-- 🔗 **[Portfolio Walkthrough](https://clarkey33.github.io/xG-model/](https://clarkey33.github.io/Soccer-xG-Analytics-Model/))** — High-level, interactive write-up  
+- 🔗 **[Portfolio Walkthrough](https://clarkey33.github.io/Soccer-xG-Analytics-Model/)** — High-level, interactive write-up  
 - 🎥 **[Video Presentation](https://www.youtube.com/watch?v=4pMvgw1hn94)** — 6-minute walkthrough with visuals  
 - 📄 **[Full Technical Report (PDF)](https://github.com/Clarkey33/xG-model/blob/main/report/player_finishing_profile_report.pdf)** — In-depth model, EDA, and evaluation  
 - 📓 **[Jupyter Notebooks](https://github.com/Clarkey33/xG-model/tree/main/notebooks)** — Reproducible analysis, model training, and visualizations
